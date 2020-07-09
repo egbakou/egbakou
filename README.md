@@ -8,12 +8,6 @@ I like writing, teaching and sharing my knowledge with other engineers.
 - 💬 Ask me about Open source, Xamarin.Forms, C#/.Net_Core, Spring Boot
 - 😄 Pronouns: He/him
 
-### Useful Link
-- [Blog](https://lioncoding.com)
-- [Twitter](https://twitter.com/lioncoding)
-- [Facebook](https://facebook.com/lioncoding)
-- [Linkedin](https://www.linkedin.com/in/laurentegbakou/ )
-
 <!--
 **egbakou/egbakou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
