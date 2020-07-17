@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am a Software engineer with experience in building intelligent & scalable applications using C#/.NET/Xamarin and Java/Spring.
+I am a Software engineer with experience in building intelligent & scalable applications using C#/.NET/Xamarin.
 I love mobile apps, distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
 - 👯 Open To Work: C#/.NET/Xamarin developer role
-- 💬 Ask me about Open source, Xamarin.Forms, C#/.Net_Core, Spring Boot
+- 💬 Ask me about Open source, Xamarin.Forms, C#/.Net_Core
 - 😄 Pronouns: He/him
 - Useful Link: [Github](https://github.com/egbakou), [Blog](https://lioncoding.com), [Twitter](https://twitter.com/lioncoding), [Facebook](https://facebook.com/lioncoding), [Linkedin](https://www.linkedin.com/in/laurentegbakou/)
 
