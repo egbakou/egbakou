@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 **Languages and Tools:**  
 
 <a href="https://github.com/egbakou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbakou&theme=light&count_private=true&layout=compact" alt="egbakou's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbakou&hide=shell&theme=light&count_private=true&layout=compact" alt="egbakou's most used languages" />
 </a>
 <a href="https://github.com/egbakou">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egbakou&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="egbakou's github stats"/>
