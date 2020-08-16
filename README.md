@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![MVP Profile](https://img.shields.io/badge/MVP-Developer%20Technonogies🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-us/PublicProfile/5003669) &nbsp;
 [![Twitter follow @lioncoding](https://img.shields.io/twitter/follow/lioncoding?style=social)](https://twitter.com/lioncoding) &nbsp;
 [![Linkedin follow @laurentegbakou](https://img.shields.io/badge/-laurentegbakou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentegbakou/)](https://www.linkedin.com/in/laurentegbakou/) &nbsp;
 [![Blog](https://img.shields.io/badge/Blog-lioncoding.com-brightgreen)](https://lioncoding.com) &nbsp;
