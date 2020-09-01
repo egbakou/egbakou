@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I am a Software engineer with experience in building intelligent & scalable applications using C#/.NET/Xamarin.
-I love mobile apps, distributed systems and the challenges associated with them.
+I love Open Source, mobile apps, distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
 - 👯 Open To Work: C#/.NET/Xamarin developer role
