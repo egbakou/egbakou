@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 [![Blog](https://img.shields.io/badge/Blog-lioncoding.com-brightgreen)](https://lioncoding.com) &nbsp;
 [![Facebook follow @lioncoding](https://img.shields.io/badge/-lioncoding-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/lioncoding/)](https://www.facebook.com/lioncoding/)
 
-<a href="https://github.com/egbakou">
+<!--<a href="https://github.com/egbakou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egbakou&hide=shell&theme=light&count_private=true&layout=compact" alt="egbakou's most used languages" />
 </a>
 <a href="https://github.com/egbakou">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egbakou&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,contribs" alt="egbakou's github stats"/>
-</a>
+</a>-->
+
