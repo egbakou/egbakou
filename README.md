@@ -1,12 +1,12 @@
 
 ### Hi there 👋
 
-I am a Software engineer with experience in building intelligent & scalable applications using C#/.NET/Xamarin.
-I love Open Source, mobile apps, distributed systems and the challenges associated with them.
+I am a Software engineer with experience in building intelligent & scalable applications using .NET, Azure and AWS.
+I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
-- 👯 Open To Work: C#/.NET/Xamarin developer role
-- 💬 Ask me about Open source, Xamarin.Forms and C#/.Net_Core
+- 👯 Open To Work: .NET developer and Software Architect role
+- 💬 Ask me about Open source, .NET, Aazure, Azure DevOps, Aws.
 - 😄 Pronouns: He/him
 
 <!--
