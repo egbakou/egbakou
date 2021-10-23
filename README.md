@@ -6,7 +6,7 @@ I love Open Source, Backend, Serverless, Distributed systems and the challenges 
 I like writing, teaching and sharing my knowledge with other engineers.
 
 - 👯 Open To Work: .NET developer and Software Architect role
-- 💬 Ask me about Open source, .NET, Aazure, Azure DevOps, Aws.
+- 💬 Ask me about Open source, .NET, Azure, Azure DevOps, Aws.
 - 😄 Pronouns: He/him
 
 <!--
