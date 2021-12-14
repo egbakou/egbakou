@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am a Software engineer with experience in building intelligent & scalable applications using .NET, Azure and AWS.
+I am a Software engineer with experience in building intelligent & scalable applications using .NET, JS, TypeScript, Azure and AWS.
 I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 
