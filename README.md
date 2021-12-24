@@ -53,15 +53,15 @@ I like writing, teaching and sharing my knowledge with other engineers.
     </td>
     <td align="center" width="96"> 
       <a href="#egbakou-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="AWS" />
+        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#egbakou-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://symbols.getvecta.com/stencil_89/48_nginx-icon.09661a73ff.svg" width="50" height="48" alt="Nginx" />
       </a>
-      <br>Python
+      <br>Nginx
     </td>
     <td align="center" width="96">
       <a href="#egbakou-tech">
@@ -114,17 +114,17 @@ I like writing, teaching and sharing my knowledge with other engineers.
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#egbakou-tech">
-        <img src="https://img2.freepng.fr/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg" width="50" height="48" alt="Sql" />
-      </a>
-      <br>SQL
-    </td>
     <td align="center" width="96">
       <a href="#egbakou-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="48" height="48" alt="GraphQL" />
       </a>
       <br>DevOps
+    </td>
+    <td align="center" width="96">
+      <a href="#egbakou-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#egbakou-tech" >
