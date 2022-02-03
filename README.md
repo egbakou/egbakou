@@ -52,12 +52,6 @@ I like writing, teaching and sharing my knowledge with other engineers.
       </a>
       <br>Azure
     </td>
-    <td align="center" width="96"> 
-      <a href="#egbakou-tech" >
-        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
     <td align="center"  width="96">
       <a href="#egbakou-tech">
         <img src="https://symbols.getvecta.com/stencil_89/48_nginx-icon.09661a73ff.svg" width="50" height="48" alt="Nginx" />
@@ -102,12 +96,6 @@ I like writing, teaching and sharing my knowledge with other engineers.
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
       </a>
       <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#egbakou-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
     </td>
     <td align="center" width="96">
       <a href="#egbakou-tech">
