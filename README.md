@@ -99,7 +99,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
     </td>
     <td align="center" width="96">
       <a href="#egbakou-tech">
-        <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="48" height="48" alt="Docker" />
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
