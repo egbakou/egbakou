@@ -58,27 +58,15 @@ I like writing, teaching and sharing my knowledge with other engineers.
       </a>
       <br>Nginx
     </td>
-    <td align="center" width="96">
-      <a href="#egbakou-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" width="48" height="48" alt="VueJS" />
-      </a>
-      <br>Vue JS
-    </td>
-    <td align="center" width="96">
-      <a href="#egbakou-tech">
-        <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-  </tr>
-  
-  <tr>
-   <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#egbakou-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <a href="#egbakou-tech" >
         <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
