@@ -1,6 +1,6 @@
 <h1 align="left" id="egbakou-title">Hi there 👋🏽</h1>
 <h3 align="left">My name is Laurent</h3>
-I am a Microsoft MVP and Software developer with experience in building intelligent & scalable applications using .NET, JS, TypeScript and ML.
+I am a Microsoft MVP and Software developer with experience in building intelligent & scalable applications using .NET, Python and ML.
 I love Open Source, Backend, Serverless, Distributed systems and the challenges associated with them.
 I like writing, teaching and sharing my knowledge with other engineers.
 <br><br>
