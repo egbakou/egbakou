@@ -24,7 +24,7 @@ I like writing, teaching and sharing my knowledge with other engineers.
   <tr>
     <td align="center" width="96">
       <a href="#egbakou-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="48" height="48" alt="Dotnet" />
+        <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" width="48" height="48" alt="Dotnet" />
       </a>
       <br>.NET
     </td>
