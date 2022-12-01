@@ -13,6 +13,6 @@ I like writing, teaching and sharing my knowledge with other engineers.
 - [![GSoC Profile](https://img.shields.io/badge/GSoC-Google%20Summer%20Of%20Code%20🏆-blue?style=flat&logo=google)](https://summerofcode.withgoogle.com/archive/2021/projects/6531276810485760) &nbsp;
 - [![Blog](https://img.shields.io/badge/Blog-lioncoding.com-brightgreen)](https://lioncoding.com) &nbsp;
 - [![Linkedin follow @laurentegbakou](https://img.shields.io/badge/-laurentegbakou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurentegbakou/)](https://www.linkedin.com/in/laurentegbakou/)
-- [![Twitter follow @lioncoding](https://img.shields.io/twitter/follow/lioncoding?style=social)](https://twitter.com/lioncoding)
+- [![Twitter follow @lioncoding](https://img.shields.io/twitter/follow/lioncoding?style=social)](https://twitter.com/intent/follow?screen_name=lioncoding)
 - 😄 Pronouns: He/him
 - Fell free to DM me on Twitter :)
